@@ -6,6 +6,14 @@ createApp({
       cards: [
         {
           id: 1,
+          title: "Personal",
+          desc:
+            "T-shaped personality, a good understanding of technology, business, UI/UX, and data, with a strong understanding for business and design. Data-driven, excellent analytical, and problem-solving skills. Familiar with agile principles and scrum methodology. Teamwork skills with cross-function teams for same vision and goal.",
+          photo:
+            "https://drive.google.com/uc?id=1e2wkmKhUHQLyyiFWQaSLQJagWWM7Ua8t&export=download"
+        },
+        {
+          id: 2,
           title: "Project",
           desc:
             "Plan and designate project resources, prepare budgets, monitor progress, and keep stakeholders informed the entire way. This is all done within the confines of a company's goals and vision. Project managers are needed on a wide variety of projects, including construction, IT, HR, and marketing.",
@@ -13,20 +21,12 @@ createApp({
             "https://images.unsplash.com/photo-1570215171424-f74325192b55?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=880&amp;q=80"
         },
         {
-          id: 2,
+          id: 3,
           title: "Product",
           desc:
             "Who identifies the customer need and the larger business objectives that a product or feature will fulfill, articulates what success looks like for a product, and rallies a team to turn that vision into a reality.",
           photo:
             "https://images.unsplash.com/flagged/photo-1550946107-8842ae9426db?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=774&amp;q=80"
-        },
-        {
-          id: 3,
-          title: "Designer",
-          desc:
-            "Developing concepts, graphics and layouts, including making decisions about fonts, images, readability and readers' needs. determining size and arrangement of copy and illustrative material, as well as font style and size. preparing rough drafts of material based on an agreed brief.",
-          photo:
-            "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=870&amp;q=80"
         },
         {
           id: 4,
